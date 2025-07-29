@@ -1,0 +1,9 @@
+info[
+    w "XLib is a libs maded by xlang (maldidev)"
+
+install[
+    sudo cp lib/* /usr/include
+    w "Done! You can use all from lib/ with '#include'!
+
+clean[
+    # this function no maded now
